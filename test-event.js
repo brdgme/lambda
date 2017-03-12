@@ -1,5 +1,3 @@
 module.exports = {
-    "New": {
-        "players": 2
-    }
+    "body": "{\"New\": { \"players\": 2 }}"
 };
